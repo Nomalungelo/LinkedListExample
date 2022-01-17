@@ -1,4 +1,5 @@
 // LinkedList Example : Console Application
+// nomabhembe1999
 #include "stdafx.h"
 #include "MyList.h" 
 #include <iostream>
@@ -15,4 +16,4 @@ int _tmain(int argc, _TCHAR* argv[]){
 	system("pause");
 	return 0;
 }
-
+NOMALUNGELO
